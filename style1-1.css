@@ -1,0 +1,45 @@
+/* color / font styles */
+nav { background-color:blueviolet; }
+nav a { color: #OF1EEA;
+text-decoration: none;
+font-size 16px;
+font-weight: bold;
+padding: 2px 10px 2px 10px; }
+nav a:hover { color: grey;
+text-decoration: underline; }
+ul {
+    list-style-image:url('http://www.externalharddrive.com/graphics/bullets/diamonds/whitewborder.gif');
+}
+header {
+    background: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F81%2F81795.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fcake-slice_81795&tbnid=QniqfpVjiGn0DM&vet=12ahUKEwii7qPQzrH6AhU8F1kFHWEcDssQMygVegUIARDwAQ..i&docid=4GoGQi5C0VAYOM&w=512&h=512&q=transparent%20background%20pastry%20image%20css&hl=en&ved=2ahUKEwii7qPQzrH6AhU8F1kFHWEcDssQMygVegUIARDwAQ) #4499 no-repeat;
+    background-size: 50px 50px;
+    background position: 20px 5px;
+    padding-left: 70px;
+    height: 65px;
+}
+#layout {
+    background-color: #578957;
+}
+aside#contract {
+    padding: 10px;
+    font-size:small;
+    border: thin black dashed;
+    width: 25%;
+    float: right;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #333;
+    background-color: #D6B5F5 ; /* IE & older Browsers*/
+    background: linear-gradient (odeg, #9239e4, #a862ea, #b87eed,  #c799f1,#d6b5f5);
+}
+section {
+    background: url(	https://thumbs.dreamstime.com/b/guy-stole-piece-ca…e-delicious-dessert-guy-stole-piece-169331617.jpg) white no-repeat;
+background-size: cover;
+background-position: top center;
+height: 450px;
+box-sizing: border-box;
+padding: 300px 0 0 100px;
+}
+h2 {
+    color: #a862ea;
+    text-shadow: 2px 2px 30px black ;
+}

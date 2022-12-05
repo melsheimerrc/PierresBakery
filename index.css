@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+  }
+  
+  h1 {
+    font-family: Tahoma, Arial, Helvetica, sans serif;
+    color: white;
+    letter-spacing: -2px;
+    margin-bottom: 0px;
+  }
+  
+  h2 {
+    color: #582A72;
+  }
+  
+  h4 {
+    font-style: italic;
+    margin-top: 0px;
+  }
+  
+  main {
+    Background-color: white;
+  }
+  
+  header {
+    background-color: #764B8E;
+  }
+  
+  main,
+  header,
+  footer {
+    padding: 5px 5px 5px 5px;
+  }
+  
+  section {
+    padding-left: 5px;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  footer {
+    font-size: x-small;
+    text-align: center;
+    background-color: #260339;
+    line-height: 2em;
+  
+  }
+  
